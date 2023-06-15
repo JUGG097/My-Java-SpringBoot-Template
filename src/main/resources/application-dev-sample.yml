@@ -1,0 +1,11 @@
+server:
+  port:
+
+spring:
+  datasource:
+    url:
+    username:
+    password:
+    driverClassName:
+  jpa:
+    spring.jpa.database-platform:
